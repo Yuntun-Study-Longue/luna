@@ -1,6 +1,6 @@
-关于云吞 :) :o :(
+关于云吞:waxing_crescent_moon:
 
-贯彻互联网技术开源，不仅知识也提供最佳实践开源。让渴望通过自我学习
+贯彻互联网技术开源，不仅开源知识也开源最佳实践。让渴望通过自我学习获得更多提升的自习人得到更多维度的能量。:milky_way:
 
 关于Luna :rocket:
 
@@ -13,3 +13,7 @@ TODO LIST  :sparkles:
 - [ ] 使用luna server `[api-name]`创建后端服务种子项目
 - [ ] 使用luna deploy 执行部署脚本
 
+
+
+多用 [emoji cheet list](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
+让文档更有意思
